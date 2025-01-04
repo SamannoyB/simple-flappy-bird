@@ -7,5 +7,5 @@ Custom and minimalistic flappy bird game with JavaScript, along with some HTML a
 Can be played on the web at hackclub.
 
 # More Info
-Created as a hackclub (HighSeas)[https://highseas.hackclub.com/] project
+Created as a hackclub [HighSeas](https://highseas.hackclub.com/) project
 Pls vote me so I can get a raspberry pi 0 2w (i seriously need it :( )
